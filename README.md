@@ -1,5 +1,5 @@
 # crawler
-This application is endpoint which return list tuples conteins url and title
+This application is endpoint which return list tuples contains url and title
 
 Test json with urls send post request
 {
